@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://mizanur.lovable.app) and start prompting.
+Simply visit the [Lovable Project](https://lovable.dev/dashboard/projects) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
